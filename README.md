@@ -1,2 +1,2 @@
 # simon-game
-this simon game is on implemented with nodejs and express.
+this simon game is implemented with nodejs and express.
